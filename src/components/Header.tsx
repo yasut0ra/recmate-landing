@@ -38,7 +38,7 @@ const Header: React.FC = () => {
             </li>
             <li>
               <a 
-                href="https://github.com" 
+                href="https://github.com/yasut0ra/recomate" 
                 className="text-gray-700 hover:text-purple-600 transition-colors flex items-center"
                 target="_blank"
                 rel="noopener noreferrer"
