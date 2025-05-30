@@ -7,28 +7,28 @@ const roadmapItems = [
     title: "基本機能の実装",
     description: "チャット機能、バンディットアルゴリズムの基本実装、シンプルなUI",
     status: "completed",
-    date: "2024年Q2"
+    date: "2025年5月"
   },
   {
     phase: "フェーズ2",
     title: "音声・表情の統合",
     description: "音声合成エンジンの統合、基本的な表情アニメーションの実装",
     status: "in-progress",
-    date: "2024年Q3"
+    date: "2025年6月"
   },
   {
     phase: "フェーズ3",
     title: "感情分析エンジンの強化",
     description: "より高度な感情分析と応答生成システムの実装",
     status: "planned",
-    date: "2024年Q4"
+    date: "2025年7月"
   },
   {
     phase: "フェーズ4",
     title: "オフライン機能の拡充",
     description: "ローカル処理の強化、よりプライバシーを重視した設計へ",
     status: "planned",
-    date: "2025年Q1"
+    date: "2025年8月"
   }
 ];
 
