@@ -20,10 +20,16 @@ const HeroSection: React.FC = () => {
               バンディットアルゴリズムで学習し、表情と音声を融合させた、まるで人間のような自然な会話体験を提供します。
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
-              <button className="px-8 py-3 bg-purple-600 text-white rounded-lg shadow-lg hover:bg-purple-700 transition-colors flex items-center justify-center group">
+              <a
+                href="https://spontaneous-cascaron-d7c26e.netlify.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-8 py-3 bg-purple-600 text-white rounded-lg shadow-lg hover:bg-purple-700 transition-colors flex items-center justify-center group"
+              >
                 デモを見る
                 <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={18} />
-              </button>
+              </a>
+
               <button className="px-8 py-3 border-2 border-purple-600 text-purple-600 rounded-lg hover:bg-purple-50 transition-colors">
                 詳細を知る
               </button>
